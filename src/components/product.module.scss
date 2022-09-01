@@ -1,0 +1,30 @@
+.btn{
+    width: max-content;
+    padding: 10px;
+height: 30px;
+border: none;
+border-radius: 5px;
+color: white;
+font-size: 1.2em;
+line-height: 0;
+background-color: #1976d2;
+margin: 0px 12px;
+
+}
+a{
+    padding: 0px 10px !important;
+    text-decoration: none !important;
+    display: block;
+    line-height: unset !important;
+    
+}
+
+.images{
+    height: 350px;
+    width: 300px;
+    box-sizing: border-box;
+    img{
+        height: 100% !important;
+        width: 100% !important;
+    }
+}

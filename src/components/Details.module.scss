@@ -1,0 +1,19 @@
+.row{
+    display: flex;
+    width: 90%;
+    margin: 80px;
+    height: max-content;
+    border: 1px solid silver;
+    div{
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+    }
+    .img{
+        padding: 12px;
+        max-height: 400px;
+        min-height: 400px;
+        width: 40%;
+    }
+
+}

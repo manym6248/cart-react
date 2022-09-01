@@ -1,0 +1,42 @@
+.row{
+    width: 100%;
+   
+    margin-top: 120px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    box-sizing: border-box;
+    h2{
+        width: 100%;
+        text-align: center;
+    }
+    .link{
+        width: 100%;
+        text-align: center;
+        text-decoration: none;
+        font-size: 1.7em;
+    }
+    .cart{
+        box-sizing: border-box;
+        width: 65%;
+    }
+    .total{
+        box-sizing: border-box;
+        margin: 12px;
+        padding: 12px;
+        width: 30%;
+        border-radius: 5px;
+        border: 1px solid silver;
+        button{
+            width: max-content;
+        height: 40px;
+        border: none;
+        border-radius: 5px;
+        color: white;
+        font-size: 1.2em;
+        line-height: 0;
+        background-color: #1976d2;
+        margin: 0px 12px;
+        }
+    }
+    }

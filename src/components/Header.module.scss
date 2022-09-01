@@ -1,0 +1,15 @@
+.header{
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    width: 100%;
+
+    span{
+        color: white;
+    }
+    a{
+        color: white;
+        text-decoration: none;
+        font-weight: bold;
+    }
+}
